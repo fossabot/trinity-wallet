@@ -1,4 +1,6 @@
 # IOTA Trinity Wallet
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frajivshah3%2Ftrinity-wallet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frajivshah3%2Ftrinity-wallet?ref=badge_shield)
+
 
 This is the shared repository for the IOTA Trinity Mobile and Desktop wallets. The apps are based on React and built with React-Native (mobile) and Electron (desktop).
 
@@ -33,3 +35,7 @@ If you are adding any text in your work, please follow the instructions in [loca
 When creating a new branch try to always branch off from `develop`. Avoid branching off from other branches unless it's absolutely necessary.
 
 When you're done with your work create a new Pull Request and use your branch as **source** branch and **develop** as target branch. Never create Pull Requests directly against **master** as target branch unless you're trying to merge an important hotfix.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frajivshah3%2Ftrinity-wallet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frajivshah3%2Ftrinity-wallet?ref=badge_large)
